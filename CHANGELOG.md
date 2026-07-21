@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ---
 
+## v0.4.1 - Know Yourself
+
+### Added
+
+- 新增 `recovery-plan.md` 中的 **计划书单** 模块。
+- 新增 `body-profile.md` 中 **身体不适-偶发** 模块。
+
 ## v0.4.0 - Know Yourself
 
 ### Added
